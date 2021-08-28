@@ -22,4 +22,4 @@ while True:
     
     print(f"\rRoll: "+str(roll), end=" ")
     print(f"Pitch: "+str(pitch), end=" ")
-    print(f"Yaw: "+str(yaw), end"")
+    print(f"Yaw: "+str(yaw), end="")
